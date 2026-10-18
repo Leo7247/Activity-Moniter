@@ -6,7 +6,7 @@
 # Introduction :
 There Is A System Default App Called Activity Moniter, But Try To Think Someone Bring It Into iOS! This ProJect Is Just Doing This, Also More Useful!
 
-## © 2026 iAnyFeature, All Rights Reserved. THIS SOFTWARE IS PROTECTED UNDER [PROPRIETARY LICENSE]
+## © 2026 iAnyFeature, All Rights Reserved. THIS SOFTWARE IS PROTECTED UNDER [PROPRIETARY LICENSE](https://github.com/Leo7247/Activity-Moniter/blob/main/LICENSE)
 
 # Help :
 Join My Discord Server :\
