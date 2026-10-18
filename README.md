@@ -13,6 +13,9 @@ This App Included Many Powerful Features, Like :
 - MobileGestalt Editor For Supported Devices! (A Gestalt Editor Like GestaltEdit)
 - Background Clean Ram With Shortcuts!
 - Also More Features! Keep An Eye On It!
+  
+# Older Versions Download :
+I Don't Know That Where Is My Older Versions, So That I Only Have The 10.40 Version Or Newer, Later On I'll Try To Find It Out!
 
 # Future Plannings :
 - Move MobileGestalt Tool Into Another App
