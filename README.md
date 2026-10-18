@@ -6,6 +6,10 @@
 # Introduction :
 There Is A System Default App Called Activity Moniter, But Try To Think Someone Bring It Into iOS! This ProJect Is Just Doing This, Also More Useful!
 
+# Help :
+Join My Discord Server :\
+Click [Here](https://discord.gg/KGAkR2uKKp) Or https://discord.gg/KGAkR2uKKp
+
 # Features : 
 This App Included Many Powerful Features, Like :
 - Cleaning Device's Ram!
